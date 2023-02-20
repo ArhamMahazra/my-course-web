@@ -1,0 +1,9 @@
+body{
+    background-color: blue;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
